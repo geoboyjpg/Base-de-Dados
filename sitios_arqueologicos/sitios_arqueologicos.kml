@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sitios_arqueologicos" id="sitios_arqueologicos">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="codigo" type="string"></SimpleField>
+	<SimpleField name="Código IPHAN" type="string"></SimpleField>
+	<SimpleField name="Identificação" type="string"></SimpleField>
+	<SimpleField name="no_logradouro" type="string"></SimpleField>
+	<SimpleField name="Síntese" type="string"></SimpleField>
+	<SimpleField name="Data do cadastro" type="string"></SimpleField>
+	<SimpleField name="Município" type="string"></SimpleField>
+	<SimpleField name="Localização na APABF" type="string"></SimpleField>
+	<SimpleField name="numero" type="int"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>sitios_arqueologicos</name>
+  <Placemark id="sitios_arqueologicos.1">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="codigo">PHA-035</SimpleData>
+		<SimpleData name="Código IPHAN">SC4209409BAST00010</SimpleData>
+		<SimpleData name="Identificação">Canto da Lagoa I</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui de forma monticular e contornos arredondados. Assentado sobre paleoduna em planície arenosa, em meio a área alagadiça e cordões arenosos de baixa altitude.</SimpleData>
+		<SimpleData name="Data do cadastro">2022/10/07</SimpleData>
+		<SimpleData name="Município">Laguna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">35</SimpleData>
+		<SimpleData name="Longitude">-48.79646</SimpleData>
+		<SimpleData name="Latitude">-28.54088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.79645886,-28.54087891</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.2">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="codigo">PHA-037</SimpleData>
+		<SimpleData name="Código IPHAN">SC4209409BAST00005</SimpleData>
+		<SimpleData name="Identificação">Galheta IV</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Galheta IV, também conhecido(a) como Galheta 4; GA IV; GA 4; SC-GA-IV, localizado(a) no estado de Santa Catarina, cidade(s) de Laguna, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2020/02/26</SimpleData>
+		<SimpleData name="Município">Laguna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">37</SimpleData>
+		<SimpleData name="Longitude">-48.78908</SimpleData>
+		<SimpleData name="Latitude">-28.5669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.789082421163,-28.56689601569</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.3">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="codigo">PHA-015</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00002</SimpleData>
+		<SimpleData name="Identificação">Ponta do Galeão</SimpleData>
+		<SimpleData name="no_logradouro">Ponta do Galeão.</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">15</SimpleData>
+		<SimpleData name="Longitude">-48.59807</SimpleData>
+		<SimpleData name="Latitude">-28.03033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.598066,-28.030331</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.4">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="codigo">PHA-009</SimpleData>
+		<SimpleData name="Código IPHAN">SC4211900BAST00004</SimpleData>
+		<SimpleData name="Identificação">Guarda do Embaú II</SimpleData>
+		<SimpleData name="no_logradouro">Guarda do Embaú</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Palhoça</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">9</SimpleData>
+		<SimpleData name="Longitude">-48.58525</SimpleData>
+		<SimpleData name="Latitude">-27.90405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.585251,-27.904049</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.5">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="codigo">PHA-012</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00005</SimpleData>
+		<SimpleData name="Identificação">Oficina lítica da Vigia II</SimpleData>
+		<SimpleData name="no_logradouro">Morro da Vigia</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">12</SimpleData>
+		<SimpleData name="Longitude">-48.6083</SimpleData>
+		<SimpleData name="Latitude">-28.01733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.608298,-28.017334</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.6">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="codigo">PHA-017</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00003</SimpleData>
+		<SimpleData name="Identificação">Fazenda Garopaba 1</SimpleData>
+		<SimpleData name="no_logradouro">Encantada</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">17</SimpleData>
+		<SimpleData name="Longitude">-48.66155</SimpleData>
+		<SimpleData name="Latitude">-28.06914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.661552,-28.069141</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.7">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="codigo">PHA-007</SimpleData>
+		<SimpleData name="Código IPHAN">SC4211900BAST00010</SimpleData>
+		<SimpleData name="Identificação">Ilha do Papagaio I</SimpleData>
+		<SimpleData name="no_logradouro">Ilha do Papagaio.</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">7</SimpleData>
+		<SimpleData name="Longitude">-48.58061</SimpleData>
+		<SimpleData name="Latitude">-27.85533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.580606,-27.855334</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.8">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="codigo">PHA-008</SimpleData>
+		<SimpleData name="Código IPHAN">SC4211900BAST00011</SimpleData>
+		<SimpleData name="Identificação">Ilha do Papagaio II</SimpleData>
+		<SimpleData name="no_logradouro">Ilha do Papagaio.</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">8</SimpleData>
+		<SimpleData name="Longitude">-48.57873</SimpleData>
+		<SimpleData name="Latitude">-27.8567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.578728,-27.856699</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.9">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="codigo">PHA-010</SimpleData>
+		<SimpleData name="Código IPHAN">SC4211900BAST00012</SimpleData>
+		<SimpleData name="Identificação">Guarda do Embaú III</SimpleData>
+		<SimpleData name="no_logradouro">Guarda do Embaú.</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Palhoça</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">10</SimpleData>
+		<SimpleData name="Longitude">-48.5841</SimpleData>
+		<SimpleData name="Latitude">-27.90468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5841,-27.904678</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.10">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="codigo">PHA-004</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00163</SimpleData>
+		<SimpleData name="Identificação">Ilha Irmã do Meio I</SimpleData>
+		<SimpleData name="no_logradouro">Ilha Irmã do Meio.</SimpleData>
+		<SimpleData name="Síntese">Sem síntese</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">4</SimpleData>
+		<SimpleData name="Longitude">-48.52082</SimpleData>
+		<SimpleData name="Latitude">-27.8348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.520823,-27.834801</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.11">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="codigo">PHA-041</SimpleData>
+		<SimpleData name="Código IPHAN">SC4208807BAST00010</SimpleData>
+		<SimpleData name="Identificação">Morro Grande I (atualização CNSA SC00666)</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Morro Grande I (atualização CNSA SC00666), localizado(a) no estado de Santa Catarina, cidade(s) de Jaguaruna, é um Bem Arqueológico, do tipo Sítio.
+Sambaqui tardio registrado por Rohr (1969) localizado às margens da rodovia de acesso à praia de Campo Bom. Apresenta sedimento escuro com muitas conchas, vestígios faunísticos e líticos polidos, brutos e lascados.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/07/16</SimpleData>
+		<SimpleData name="Município">Jaguaruna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">41</SimpleData>
+		<SimpleData name="Longitude">-49.08482</SimpleData>
+		<SimpleData name="Latitude">-28.69728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.084822,-28.697285</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.12">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="codigo">PHA-018</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00007</SimpleData>
+		<SimpleData name="Identificação">Capão de Garopaba</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Capão de Garopaba, também conhecido(a) como GRB 001, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/01/28</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">18</SimpleData>
+		<SimpleData name="Longitude">-48.62843</SimpleData>
+		<SimpleData name="Latitude">-28.08228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.628427057461,-28.082278285232</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.13">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="codigo">PHA-023</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00001</SimpleData>
+		<SimpleData name="Identificação">SC-DUN-001</SimpleData>
+		<SimpleData name="no_logradouro">Estrada Geral para Praia do Ouvidor</SimpleData>
+		<SimpleData name="Síntese">SC-DUN-001, também conhecido(a) como Ponta Sul, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/04/25</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">23</SimpleData>
+		<SimpleData name="Longitude">-48.63508</SimpleData>
+		<SimpleData name="Latitude">-28.10777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6350811301,-28.1077654733</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.14">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="codigo">PHA-022</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00008</SimpleData>
+		<SimpleData name="Identificação">SC-DUN-002</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Ofícinas Líticas de polimento em Blocos de Diabásio, apresentam depressões circulares (bacias). Localizadas na faixa da praia do Ouvidor, na chamada Ponta Norte. Associado aos grupos Sambaquianos do litoral catarinense.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/05/07</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">22</SimpleData>
+		<SimpleData name="Longitude">-48.63515</SimpleData>
+		<SimpleData name="Latitude">-28.10253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.635145,-28.102533</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.15">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="codigo">PHA-043</SimpleData>
+		<SimpleData name="Código IPHAN">SC4208807BAST00011</SimpleData>
+		<SimpleData name="Identificação">Morro Grande II (atualização CNSA SC00667)</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Morro Grande II (atualização CNSA SC00667), também conhecido(a) como SC-J-28 (Rohr, 1969:25), Jaguaruna 20 (Rohr, 1984:20), localizado(a) no estado de Santa Catarina, cidade(s) de Jaguaruna, é um Bem Arqueológico, do tipo Sítio.
+Sambaqui tardio registrado por Rohr (1969) localizado às margens da rodovia de acesso à praia de Campo Bom. Apresenta sedimento escuro com muitas conchas, vestígios faunísticos e líticos polidos, brutos e lascados.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/07/16</SimpleData>
+		<SimpleData name="Município">Jaguaruna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">43</SimpleData>
+		<SimpleData name="Longitude">-49.08418</SimpleData>
+		<SimpleData name="Latitude">-28.70151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.084182,-28.701508</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.16">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="codigo">PHA-038</SimpleData>
+		<SimpleData name="Código IPHAN">SC4209409BAST00008</SimpleData>
+		<SimpleData name="Identificação">Aldabi</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">No Cabo de Santa Marta.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/12/13</SimpleData>
+		<SimpleData name="Município">Laguna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">38</SimpleData>
+		<SimpleData name="Longitude">-48.82227</SimpleData>
+		<SimpleData name="Latitude">-28.61067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.8222667,-28.6106667</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.17">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="codigo">PHA-042</SimpleData>
+		<SimpleData name="Código IPHAN">SC4208807BAST00012</SimpleData>
+		<SimpleData name="Identificação">Buenos Aires</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Perto do Cabo de Santa Marta. Coordenadas reportadas pela fonte 6.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/12/13</SimpleData>
+		<SimpleData name="Município">Jaguaruna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">42</SimpleData>
+		<SimpleData name="Longitude">-49.01667</SimpleData>
+		<SimpleData name="Latitude">-28.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.0166667,-28.7</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.18">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="codigo">PHA-029</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00015</SimpleData>
+		<SimpleData name="Identificação">Costão da Praia dos Amores</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui localizado no costão sul da Praia dos Amores, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico, do tipo Sítio. São dois os sambaquis nessa praia: um no costão norte e outro no costão sul. Portanto, este registro trata-se do sambaqui no costão sul, o maior entre os dois, ocupando toda a planície do promontório. Acima do mesmo, encontra-se casa de vigia da comunidade pescadora local. Registro feito por Isabela Müller, a partir de denúncia/vistoria no processo 01510.000223/2022-01.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/02</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">29</SimpleData>
+		<SimpleData name="Longitude">-48.6577</SimpleData>
+		<SimpleData name="Latitude">-28.19278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.657704,-28.1927795</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.19">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="codigo">PHA-030</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00014</SimpleData>
+		<SimpleData name="Identificação">Sambaqui da Praia dos Amores</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui localizado no costão norte da Praia dos Amores, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico, do tipo Sítio. A praia dos Amores possui dois sítios, um no costão norte e outro no costão sul, e este trata-se do sítio no costão norte. Muito impactado e possivelmente será completamente destruído pela ação das marés especialmente. Encontra-se embaixo de casa/rancho de pescador e a trilha da praia da Ribanceira à Praia dos Amores passa por cima do mesmo.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/02</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">30</SimpleData>
+		<SimpleData name="Longitude">-48.65922</SimpleData>
+		<SimpleData name="Latitude">-28.19313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.659224,-28.1931303</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.20">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="codigo">PHA-020</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00018</SimpleData>
+		<SimpleData name="Identificação">Costão Sul da Barra</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Costão Sul da Barra, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">20</SimpleData>
+		<SimpleData name="Longitude">-48.63193</SimpleData>
+		<SimpleData name="Latitude">-28.09028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6319293336273,-28.0902813072663</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.21">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="codigo">PHA-016</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00021</SimpleData>
+		<SimpleData name="Identificação">Costão da Praia da Silveira</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui localizado entre o Costão da Praia da Silveira e a desembocadura da lagoa do Silveira, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio. Extenso sítio impactado pela ação das água e pelas trilhas de acesso à praia. Limitado pelo costão, pelo mar e pelo canal que desemboca no mar. Registrado por Isabela Müller. Processo relacionado 01510.000223/2022-01 (identificado a partir de vistoria demandada por denúncia).</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/01</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">16</SimpleData>
+		<SimpleData name="Longitude">-48.60927</SimpleData>
+		<SimpleData name="Latitude">-28.04528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6092659,-28.0452769</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.22">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="codigo">PHA-044</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207007BAST00004</SimpleData>
+		<SimpleData name="Identificação">Sambaqui da Lagoa dos Freitas II</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Presença de materiais malacológico em superfície, caracterizando-se como um sítio arqueológico do tipo Sambaqui associados com grupos de pescadores-caçadores-coletores pré-coloniais.</SimpleData>
+		<SimpleData name="Data do cadastro">2022/03/30</SimpleData>
+		<SimpleData name="Município">Balneário Rincão</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">44</SimpleData>
+		<SimpleData name="Longitude">-49.21935</SimpleData>
+		<SimpleData name="Latitude">-28.80664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.219351,-28.806643</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.23">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="codigo">PHA-033</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00017</SimpleData>
+		<SimpleData name="Identificação">Costão da Praia da Vila</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui e oficinas líticas no Costão da Praia da Vila, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico, do tipo Sítio. Encontra-se em promontório em direção ao mar e, a sua frente, existe uma ilha para a qual muitas pessoas atravessam a nado. A associação entre sambaquis e oficinas líticas é comum no litoral catarinense. O sítio, especialmente na área do sambaqui é bastante impactado pelas &quot;trilhas&quot; e &quot;caminhos&quot; por onde as pessoas andam em grande volume, gerando voçorocas. Registro feito por Isabela Müller, em virtude de denúncia/vistoria no processo 01510.000223/2022-01.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/02</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">33</SimpleData>
+		<SimpleData name="Longitude">-48.65304</SimpleData>
+		<SimpleData name="Latitude">-28.23961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.653044,-28.2396092</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.24">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="codigo">PHA-014</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00020</SimpleData>
+		<SimpleData name="Identificação">Praia Central de Garopaba</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Tratam-se de amoladores e polidores localizados no canto sul da Praia Central de Garopaba, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio. O sítio já se encontra impactado por muro e construções à beira do costão e entende-se que outros vestígios possam já ter se perdido com o passar do tempo e avanço desordenado do núcleo urbano. Relaciona-se espacialmente ao núcleo histórico urbano do município e ao sítio Armação de Garopaba. Registro feito por Isabela Müller. Processo 01510.000223/2022-01.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/01</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">14</SimpleData>
+		<SimpleData name="Longitude">-48.61353</SimpleData>
+		<SimpleData name="Latitude">-28.02308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6135289,-28.0230827</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.25">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="codigo">PHA-003</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00049</SimpleData>
+		<SimpleData name="Identificação">Pântano do Sul V</SimpleData>
+		<SimpleData name="no_logradouro">Joaquim Neves</SimpleData>
+		<SimpleData name="Síntese">Pântano do Sul V, também conhecido(a) como PTS V; Oficina Lítica Praia do Pântano do Sul III, SC-LF-100, Praia do Pântano do Sul III, Pântano , localizado(a) no estado de Santa Catarina, cidade(s) de Florianópolis, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/03/29</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">3</SimpleData>
+		<SimpleData name="Longitude">-48.50737</SimpleData>
+		<SimpleData name="Latitude">-27.78594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.507372,-27.785938</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.26">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="codigo">PHA-001</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00071</SimpleData>
+		<SimpleData name="Identificação">Pântano do Sul III</SimpleData>
+		<SimpleData name="no_logradouro">Caminho do Rei</SimpleData>
+		<SimpleData name="Síntese">Pântano do Sul III, localizado(a) no estado de Santa Catarina, cidade(s) de Florianópolis, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/04/10</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="Longitude">-48.50676</SimpleData>
+		<SimpleData name="Latitude">-27.78382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.506761,-27.783823</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.27">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="codigo">PHA-002</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00072</SimpleData>
+		<SimpleData name="Identificação">Pântano do Sul IV</SimpleData>
+		<SimpleData name="no_logradouro">Servidão Sinfrônio José de Souza</SimpleData>
+		<SimpleData name="Síntese">Pântano do Sul IV, localizado(a) no estado de Santa Catarina, cidade(s) de Florianópolis, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/04/10</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">2</SimpleData>
+		<SimpleData name="Longitude">-48.5074</SimpleData>
+		<SimpleData name="Latitude">-27.78585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5074,-27.785852</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.28">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="codigo">PHA-031</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00016</SimpleData>
+		<SimpleData name="Identificação">Praia d'Água</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Trata-se de sambaqui na Praia d'Água, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico, do tipo Sítio. O sambaqui encontra-se no final da trilha que dá acesso à praia, embaixo da placa de sinalização da mesma.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/02</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">31</SimpleData>
+		<SimpleData name="Longitude">-48.66608</SimpleData>
+		<SimpleData name="Latitude">-28.20657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6660809,-28.2065743</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.29">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="codigo">PHA-019</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00014</SimpleData>
+		<SimpleData name="Identificação">Pontal da barra</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Pontal da barra, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">19</SimpleData>
+		<SimpleData name="Longitude">-48.631</SimpleData>
+		<SimpleData name="Latitude">-28.09</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.631,-28.09</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.30">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="codigo">PHA-024</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00015</SimpleData>
+		<SimpleData name="Identificação">Portinho do Ouvidor</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Portinho do Ouvidor, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">24</SimpleData>
+		<SimpleData name="Longitude">-48.632</SimpleData>
+		<SimpleData name="Latitude">-28.109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.632000000001,-28.109</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.31">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="codigo">PHA-025</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00016</SimpleData>
+		<SimpleData name="Identificação">Praia do Nego</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Praia do Nego, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">25</SimpleData>
+		<SimpleData name="Longitude">-48.632</SimpleData>
+		<SimpleData name="Latitude">-28.111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.632000000001,-28.111</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.32">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="codigo">PHA-026</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00012</SimpleData>
+		<SimpleData name="Identificação">Praia do Rosa Sul</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Praia do Rosa Sul, localizado(a) no estado de Santa Catarina, cidade(s) de Imbitubakj, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">26</SimpleData>
+		<SimpleData name="Longitude">-48.639</SimpleData>
+		<SimpleData name="Latitude">-28.139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6389999999,-28.139</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.33">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="codigo">PHA-011</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00017</SimpleData>
+		<SimpleData name="Identificação">Casqueiro</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Casqueiro, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">11</SimpleData>
+		<SimpleData name="Longitude">-48.609</SimpleData>
+		<SimpleData name="Latitude">-28.017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.60899999999,-28.017000000001</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.34">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="codigo">PHA-021</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00019</SimpleData>
+		<SimpleData name="Identificação">Costão do meio</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Costão do meio, localizado(a) no estado de Santa Catarina, cidade(s) de Garopaba, é um Bem Arqueológico, do tipo Sítio.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/01/17</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">21</SimpleData>
+		<SimpleData name="Longitude">-48.63267</SimpleData>
+		<SimpleData name="Latitude">-28.09215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6326749578443,-28.0921536767588</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.35">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="codigo">PHA-027</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00013</SimpleData>
+		<SimpleData name="Identificação">Costão da Praia do Luz</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Trata-se de sambaqui no Costão Norte da Praia do Luz, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico, do tipo Sítio. O sambaqui está encoberto pela vegetação de restinga/costão, e é impactado pela ação das marés e trilha que passa pelo mesmo. Registro feito por Isabela Müller, via vistoria de denúncia feita no processo relacionado 01510.000223/2022-01.</SimpleData>
+		<SimpleData name="Data do cadastro">2023/03/02</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">27</SimpleData>
+		<SimpleData name="Longitude">-48.64519</SimpleData>
+		<SimpleData name="Latitude">-28.14391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6451892,-28.1439136</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.36">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="codigo">PHA-013</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205704BAST00004</SimpleData>
+		<SimpleData name="Identificação">Oficina lítica da Vigia I</SimpleData>
+		<SimpleData name="no_logradouro">Morro da Vigia</SimpleData>
+		<SimpleData name="Síntese">Trata-se de sítio contendo oficinas líticas registrado no ano de 2014 (código CNSA SC01515). Após ações fiscalizatórias do IPHAN, foram identificados novos polidores na área de desembocadura do riacho da Vigia (UTM 22 J 734987.00 m E / 6898331.00 m S) e um sambaqui contíguo à área das oficinas no costão (UTM 22J 734929.00 m E  6898338.00 m S). Atualização por Isabela Muller. Processo relacionado 01510.000223/2022-01.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/05/10</SimpleData>
+		<SimpleData name="Município">Garopaba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">13</SimpleData>
+		<SimpleData name="Longitude">-48.61041</SimpleData>
+		<SimpleData name="Latitude">-28.01946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.610406,-28.019455</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.37">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="codigo">PHA-036</SimpleData>
+		<SimpleData name="Código IPHAN">SC4209409BAST00011</SimpleData>
+		<SimpleData name="Identificação">Canto da Lagoa II</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui localizado em área de transição entre cordões arenosos e terreno alagadiço. Apresenta contorno elíptico e pequena altura.</SimpleData>
+		<SimpleData name="Data do cadastro">2022/10/07</SimpleData>
+		<SimpleData name="Município">Laguna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">36</SimpleData>
+		<SimpleData name="Longitude">-48.79535</SimpleData>
+		<SimpleData name="Latitude">-28.54229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.79535493,-28.54228666</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.38">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="codigo">PHA-028</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00005</SimpleData>
+		<SimpleData name="Identificação">Barra da Lagoa de Ibiraquera</SimpleData>
+		<SimpleData name="no_logradouro">Estrada geral da barra</SimpleData>
+		<SimpleData name="Síntese">Barra da Lagoa de Ibiraquera, localizado(a) no estado de Santa Catarina, cidade(s) de Imbitubakj, é um Bem Arqueológico, do tipo Sítio.
+Sítio localizado junto à praia, ao lado da Barra da Lagoa, o sítio tem proximadamente 100m de diâmetro. É composto por um sambaqui e uma oficina de polimento circular.
+Ficha atualizada em 18/03/2021 por Ágatha Idalgo Bender Ludwig, após vistoria realizada em 03/03/2021 no âmbito do processo 01510.000005/2021-88.</SimpleData>
+		<SimpleData name="Data do cadastro">2021/03/26</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">28</SimpleData>
+		<SimpleData name="Longitude">-48.64732</SimpleData>
+		<SimpleData name="Latitude">-28.1498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.64732,-28.149797</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.39">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="codigo">PHA-034</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00008</SimpleData>
+		<SimpleData name="Identificação">Dunas da Guaiúba</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Dunas da Guaiúba, localizado(a) no estado de Santa Catarina, cidade(s) de Imbitubakj, é um Bem Arqueológico, do tipo Sítio.
+Trata-se de sítio cerâmico, com características guarani. O material arqueológico está espalhado em superfície, principalmente nos caminhos formados por passagem de pedestres e possivelmente motos e quadricíclos. Não foi realizada delimitação.</SimpleData>
+		<SimpleData name="Data do cadastro">2022/03/11</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">34</SimpleData>
+		<SimpleData name="Longitude">-48.71388</SimpleData>
+		<SimpleData name="Latitude">-28.30069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.713878,-28.30069</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.40">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="codigo">PHA-032</SimpleData>
+		<SimpleData name="Código IPHAN">SC4207304BAST00011</SimpleData>
+		<SimpleData name="Identificação">Praia D'Água</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">O sítio arqueológico Praia D'Água, trata-se de sítio do tipo sambaqui, localizado(a) no estado de Santa Catarina, cidade(s) de Imbituba, é um Bem Arqueológico.</SimpleData>
+		<SimpleData name="Data do cadastro">2022/11/04</SimpleData>
+		<SimpleData name="Município">Imbituba</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">32</SimpleData>
+		<SimpleData name="Longitude">-48.66585</SimpleData>
+		<SimpleData name="Latitude">-28.20661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6658534632227,-28.2066092728362</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.41">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="codigo">PHA-040</SimpleData>
+		<SimpleData name="Código IPHAN">SC4208807BAST00008</SimpleData>
+		<SimpleData name="Identificação">Garopaba do Sul I</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Sambaqui de grande porte situado entre a Lagoa Garopaba do Sul e o Oceano Atlântico, com área de aproximadamente 7,5 hectares e altura de aproximadamente 20 metros.</SimpleData>
+		<SimpleData name="Data do cadastro">2020/11/19</SimpleData>
+		<SimpleData name="Município">Jaguaruna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">40</SimpleData>
+		<SimpleData name="Longitude">-48.8929</SimpleData>
+		<SimpleData name="Latitude">-28.62553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.8929,-28.625531</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.42">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="codigo">PHA-039</SimpleData>
+		<SimpleData name="Código IPHAN">SC4209409BAST00017</SimpleData>
+		<SimpleData name="Identificação">Costão do Ilhote</SimpleData>
+		<SimpleData name="no_logradouro">Sem informação</SimpleData>
+		<SimpleData name="Síntese">Costão do Ilhote, localizado(a) no estado de Santa Catarina, cidade(s) de Laguna, é um Bem Arqueológico, do tipo Sítio, localizado em promontório entre as praias do Cardoso e da Cigana que agrega o sambaqui (que já era conhecido na literatura arqueológica como Costão do Ilhote), e agora, com o registro, concentra também as oficinas líticas associadas ao promontório.O sítio apresenta uma configuração muito similar com outros ao longo do litoral catarinense que se trata de sambaqui com oficinas líticas em promontório.</SimpleData>
+		<SimpleData name="Data do cadastro">2025/02/24</SimpleData>
+		<SimpleData name="Município">Laguna</SimpleData>
+		<SimpleData name="Localização na APABF">Interno</SimpleData>
+		<SimpleData name="numero">39</SimpleData>
+		<SimpleData name="Longitude">-48.8373</SimpleData>
+		<SimpleData name="Latitude">-28.61158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.837299,-28.611581</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.43">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="codigo">PHA-005</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00196</SimpleData>
+		<SimpleData name="Identificação">SC Naufragados 01</SimpleData>
+		<SimpleData name="no_logradouro">Baldicero Filomeno</SimpleData>
+		<SimpleData name="Síntese">SC Naufragados 01, localizado(a) no estado de Santa Catarina, cidade(s) de Florianópolis, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/06/06</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">5</SimpleData>
+		<SimpleData name="Longitude">-48.57079</SimpleData>
+		<SimpleData name="Latitude">-27.83556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5707897063,-27.8355648919</coordinates></Point>
+  </Placemark>
+  <Placemark id="sitios_arqueologicos.44">
+	<ExtendedData><SchemaData schemaUrl="#sitios_arqueologicos">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="codigo">PHA-006</SimpleData>
+		<SimpleData name="Código IPHAN">SC4205407BAST00192</SimpleData>
+		<SimpleData name="Identificação">Naufragados I</SimpleData>
+		<SimpleData name="no_logradouro">Baldicero Filomeno</SimpleData>
+		<SimpleData name="Síntese">Naufragados I, também conhecido(a) como Naufragados II (Fossari 1989, Bettanin 2008, Sophiati 2010)., localizado(a) no estado de Santa Catarina, cidade(s) de Florianópolis, é um Bem Arqueológico, do tipo Sítio, com estado de conservação Regular e de preservação Pouco Alterado.</SimpleData>
+		<SimpleData name="Data do cadastro">2019/06/05</SimpleData>
+		<SimpleData name="Município">Florianópolis</SimpleData>
+		<SimpleData name="Localização na APABF">Externo</SimpleData>
+		<SimpleData name="numero">6</SimpleData>
+		<SimpleData name="Longitude">-48.55977</SimpleData>
+		<SimpleData name="Latitude">-27.83568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5597738568,-27.8356792334</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ilhas_apabf_ponto" id="ilhas_apabf_ponto">
+	<SimpleField name="CODIGO" type="string"></SimpleField>
+	<SimpleField name="NM_ILHA" type="string"></SimpleField>
+	<SimpleField name="NM_MUN" type="string"></SimpleField>
+	<SimpleField name="AREA_KM2" type="float"></SimpleField>
+	<SimpleField name="AREA_M2" type="float"></SimpleField>
+	<SimpleField name="LOCALIDADE" type="string"></SimpleField>
+	<SimpleField name="PERT_UC" type="string"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+</Schema>
+<Folder><name>ilhas_apabf_ponto</name>
+  <Placemark id="ilhas_apabf_ponto.1">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-005</SimpleData>
+		<SimpleData name="NM_ILHA">Laje Moleques do Sul</SimpleData>
+		<SimpleData name="NM_MUN">Florianópolis</SimpleData>
+		<SimpleData name="AREA_KM2">0.411</SimpleData>
+		<SimpleData name="AREA_M2">4107.541</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.853196</SimpleData>
+		<SimpleData name="LONGITUDE">-48.444362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.4443620553459,-27.8531962631078</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.2">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-002</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Irmã de Fora</SimpleData>
+		<SimpleData name="NM_MUN">Florianópolis</SimpleData>
+		<SimpleData name="AREA_KM2">40.214</SimpleData>
+		<SimpleData name="AREA_M2">402136.382</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Saquinho</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.837660</SimpleData>
+		<SimpleData name="LONGITUDE">-48.504465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.504465271083,-27.8376602444839</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.3">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-017</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Tacami</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">0.705</SimpleData>
+		<SimpleData name="AREA_M2">7049.017</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.351884</SimpleData>
+		<SimpleData name="LONGITUDE">-48.601120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6011197299011,-28.3518841419941</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.4">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-018</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha dos Lobos</SimpleData>
+		<SimpleData name="NM_MUN">Laguna</SimpleData>
+		<SimpleData name="AREA_KM2">8.100</SimpleData>
+		<SimpleData name="AREA_M2">81004.550</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.447121</SimpleData>
+		<SimpleData name="LONGITUDE">-48.708781</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.7087809872582,-28.4471211320893</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.5">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-015</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Santana de Fora</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">4.511</SimpleData>
+		<SimpleData name="AREA_M2">45106.998</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia da Vila</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.248082</SimpleData>
+		<SimpleData name="LONGITUDE">-48.654097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6540969644409,-28.2480819216183</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.6">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-001</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Irmã Pequena</SimpleData>
+		<SimpleData name="NM_MUN">Florianópolis</SimpleData>
+		<SimpleData name="AREA_KM2">9.927</SimpleData>
+		<SimpleData name="AREA_M2">99272.569</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Saquinho</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.831367</SimpleData>
+		<SimpleData name="LONGITUDE">-48.528573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5285728202829,-27.8313673914952</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.7">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-014</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Santana de Dentro</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">4.368</SimpleData>
+		<SimpleData name="AREA_M2">43677.171</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia da Vila</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.241343</SimpleData>
+		<SimpleData name="LONGITUDE">-48.651319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6513190345044,-28.2413426322182</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.8">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-016</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha das Araras</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">10.896</SimpleData>
+		<SimpleData name="AREA_M2">108957.941</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.321593</SimpleData>
+		<SimpleData name="LONGITUDE">-48.648337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.648337323005,-28.3215926623205</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.9">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-012</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha do Batuta</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">8.644</SimpleData>
+		<SimpleData name="AREA_M2">86436.335</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Luz</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.152756</SimpleData>
+		<SimpleData name="LONGITUDE">-48.642029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6420286474088,-28.1527560367652</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.10">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-013</SimpleData>
+		<SimpleData name="NM_ILHA">Sem nome1</SimpleData>
+		<SimpleData name="NM_MUN">Imbituba</SimpleData>
+		<SimpleData name="AREA_KM2">0.335</SimpleData>
+		<SimpleData name="AREA_M2">3354.828</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia da Ribanceira</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.189099</SimpleData>
+		<SimpleData name="LONGITUDE">-48.656391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6563911443418,-28.1890989761886</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.11">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-009</SimpleData>
+		<SimpleData name="NM_ILHA">Ilhota do Siriú</SimpleData>
+		<SimpleData name="NM_MUN">Garopaba</SimpleData>
+		<SimpleData name="AREA_KM2">2.392</SimpleData>
+		<SimpleData name="AREA_M2">23918.904</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Siriú</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.987293</SimpleData>
+		<SimpleData name="LONGITUDE">-48.617401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6174007792588,-27.9872927257226</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.12">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-008</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha de Coral</SimpleData>
+		<SimpleData name="NM_MUN">Paulo Lopes</SimpleData>
+		<SimpleData name="AREA_KM2">34.824</SimpleData>
+		<SimpleData name="AREA_M2">348241.014</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.936539</SimpleData>
+		<SimpleData name="LONGITUDE">-48.542785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5427851761951,-27.9365386825394</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.13">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-003</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Irmã do Meio</SimpleData>
+		<SimpleData name="NM_MUN">Florianópolis</SimpleData>
+		<SimpleData name="AREA_KM2">59.065</SimpleData>
+		<SimpleData name="AREA_M2">590646.899</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Saquinho</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.839261</SimpleData>
+		<SimpleData name="LONGITUDE">-48.525134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5251344362232,-27.8392614213534</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.14">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-004</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha dos Moleques do Sul</SimpleData>
+		<SimpleData name="NM_MUN">Florianópolis</SimpleData>
+		<SimpleData name="AREA_KM2">16.682</SimpleData>
+		<SimpleData name="AREA_M2">166818.397</SimpleData>
+		<SimpleData name="LOCALIDADE">ZEE</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.845071</SimpleData>
+		<SimpleData name="LONGITUDE">-48.430911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.4309109093956,-27.8450709310518</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.15">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-011</SimpleData>
+		<SimpleData name="NM_ILHA">Ilhota do Ouvidor</SimpleData>
+		<SimpleData name="NM_MUN">Garopaba</SimpleData>
+		<SimpleData name="AREA_KM2">0.734</SimpleData>
+		<SimpleData name="AREA_M2">7337.376</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia do Ouvidor</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-28.102209</SimpleData>
+		<SimpleData name="LONGITUDE">-48.627097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.6270968142282,-28.1022093662356</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.16">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-019</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha Marta Pequeno</SimpleData>
+		<SimpleData name="NM_MUN">Laguna</SimpleData>
+		<SimpleData name="AREA_KM2">2.954</SimpleData>
+		<SimpleData name="AREA_M2">29538.674</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia de Santa Marta Pequeno</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.539555</SimpleData>
+		<SimpleData name="LONGITUDE">-48.758963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.758963052103,-28.5395554943119</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.17">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-006</SimpleData>
+		<SimpleData name="NM_ILHA">Ilha dos Papagaios Pequena</SimpleData>
+		<SimpleData name="NM_MUN">Palhoça</SimpleData>
+		<SimpleData name="AREA_KM2">15.693</SimpleData>
+		<SimpleData name="AREA_M2">156932.569</SimpleData>
+		<SimpleData name="LOCALIDADE">Praia da Pinheira</SimpleData>
+		<SimpleData name="PERT_UC">NÃO</SimpleData>
+		<SimpleData name="LATITUDE">-27.855161</SimpleData>
+		<SimpleData name="LONGITUDE">-48.578701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.578700990964,-27.8551605433739</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.18">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-007</SimpleData>
+		<SimpleData name="NM_ILHA">Laje da Pinheira</SimpleData>
+		<SimpleData name="NM_MUN">Palhoça</SimpleData>
+		<SimpleData name="AREA_KM2">1.445</SimpleData>
+		<SimpleData name="AREA_M2">14453.455</SimpleData>
+		<SimpleData name="LOCALIDADE">Ponta da Pinheira</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-27.863486</SimpleData>
+		<SimpleData name="LONGITUDE">-48.570837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5708373771049,-27.863485557858</coordinates></Point>
+  </Placemark>
+  <Placemark id="ilhas_apabf_ponto.19">
+	<ExtendedData><SchemaData schemaUrl="#ilhas_apabf_ponto">
+		<SimpleData name="CODIGO">IPL-010</SimpleData>
+		<SimpleData name="NM_ILHA">Parcel de Garopaba</SimpleData>
+		<SimpleData name="NM_MUN">Garopaba</SimpleData>
+		<SimpleData name="AREA_KM2">3.790</SimpleData>
+		<SimpleData name="AREA_M2">37904.973</SimpleData>
+		<SimpleData name="LOCALIDADE">Ponta do Galeão</SimpleData>
+		<SimpleData name="PERT_UC">SIM</SimpleData>
+		<SimpleData name="LATITUDE">-28.018707</SimpleData>
+		<SimpleData name="LONGITUDE">-48.590356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-48.5903560903343,-28.0187070829139</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
